@@ -39,6 +39,7 @@ Click the AI Write button to generate a response
 
 
 🧩 Project Structure
+
 AI-Email-Writer/
 │
 ├── src/

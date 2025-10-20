@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "ES2020",
+        "module": "ESNext",
+        "checkJs": true,
+        "allowSyntheticDefaultImports": true,
+        "moduleResolution": "node",
+        "baseUrl": "./",
+        "paths": {
+            "*": ["./*"]
+        }
+    },
+    "exclude": ["node_modules", "**/node_modules/*"]
+}
